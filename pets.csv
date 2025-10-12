@@ -9,3 +9,4 @@ id,pet_name,species,breed,age,health_status,adoption_status,adopter_name,phone,e
 8,Thumper,Rabbit,Holland Lop,2,Healthy,Available,,,
 9,Shadow,Dog,Border Collie,5,Vaccinated,Pending,,,
 
+11,finn,dog,golden,1,Vaccinated,Adopted,kate,1234567,k@email.com
