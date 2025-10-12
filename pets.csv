@@ -1,0 +1,11 @@
+id,pet_name,species,breed,age,health_status,adoption_status,adopter_name,phone,email
+1,Bella,Dog,Labrador,3,Healthy,Adopted,John Murphy,0851234567,john.murphy@example.com
+2,Milo,Cat,Siamese,2,Vaccinated,Available,,,
+3,Luna,Rabbit,Mini Lop,1,Healthy,Pending,,,
+4,Charlie,Dog,Beagle,4,Vaccinated,Adopted,Anna Kelly,0879876543,anna.kelly@example.com
+5,Willow,Cat,Maine Coon,5,Healthy,Available,,,
+6,Rocky,Dog,German Shepherd,6,Healthy,Available,,,
+7,Daisy,Cat,Bengal,3,Vaccinated,Adopted,Emma O'Connor,0867654321,emma.oconnor@example.com
+8,Thumper,Rabbit,Holland Lop,2,Healthy,Available,,,
+9,Shadow,Dog,Border Collie,5,Vaccinated,Pending,,,
+
