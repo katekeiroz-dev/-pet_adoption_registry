@@ -20,6 +20,6 @@ Features:
   - CSV-based data storage
 
 Video Demo Link :
-  https://drive.google.com/file/d/1Ywl53ntpjN3We10mZYm6MeQSQBk-05s0/view?usp=sharing 
+  https://drive.google.com/file/d/1leLZFTdFhuPRLfYciQTcgCNXjIzx9pM8/view?usp=drive_link
 
 -----
