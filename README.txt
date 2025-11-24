@@ -1,5 +1,4 @@
-# Pet Adoption Registry ------
--
+# Pet Adoption Registry -----
 --
 
 ## Linux Shell Scripting Assessment (HDip in CS 2025)
