@@ -1,6 +1,6 @@
 # Pet Adoption Registry -----
---
 
+.d
 ## Linux Shell Scripting Assessment (HDip in CS 2025)
 
 Student name : KATE QUEIROZ BARREIROS
